@@ -10,3 +10,7 @@ pueda adquirir experiencia y conocimientos y aportar mis valores.
 deneztomas@gmail.com
 
 Sant Esteve Sesrovires, Barcelona.
+
+# Datos académicos
+### 2007 
+Educación Infantil y Primaria
