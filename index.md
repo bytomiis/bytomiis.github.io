@@ -38,4 +38,4 @@ Educación Infantil y Primaria
 3. Uso y manejo de correo electrónico
 4. Montaje y mantenimiento de equipos
 
-![Image](messi.jpg)
+
