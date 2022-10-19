@@ -33,7 +33,7 @@ Educación Infantil y Primaria
 *Escola La Marina*
 
 # Habilidades
-- Uso y manejo de aplicaciones ofimáticas
-- Uso y manejo de internet
-- Uso y manejo de correo electrónico
-- Montaje y mantenimiento de equipos
+1. Uso y manejo de aplicaciones ofimáticas
+2. Uso y manejo de internet
+3. Uso y manejo de correo electrónico
+4. Montaje y mantenimiento de equipos
