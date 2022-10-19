@@ -12,5 +12,14 @@ deneztomas@gmail.com
 Sant Esteve Sesrovires, Barcelona.
 
 # Datos académicos
+##### 2021 
+Grado medio en Sistemas Microinformáticos y Redes
+
+##### 2018 
+Educación Secundaria Obligatoria
+
+##### 2016 
+Educación Secundaria Obligatoria
+
 ##### 2007 
 Educación Infantil y Primaria
