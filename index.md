@@ -37,3 +37,4 @@ Educación Infantil y Primaria
 2. Uso y manejo de internet
 3. Uso y manejo de correo electrónico
 4. Montaje y mantenimiento de equipos
+
