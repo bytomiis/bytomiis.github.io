@@ -31,3 +31,9 @@ Educación Secundaria Obligatoria
 Educación Infantil y Primaria
 
 *Escola La Marina*
+
+# Habilidades
+- Uso y manejo de aplicaciones ofimáticas
+- Uso y manejo de internet
+- Uso y manejo de correo electrónico
+- Montaje y mantenimiento de equipos
