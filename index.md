@@ -14,12 +14,16 @@ Sant Esteve Sesrovires, Barcelona.
 # Datos académicos
 ##### 2021 
 Grado medio en Sistemas Microinformáticos y Redes
+*Planeta Formación y Universidades*
 
 ##### 2018 
 Educación Secundaria Obligatoria
+*This text is italicized*
 
 ##### 2016 
 Educación Secundaria Obligatoria
+*This text is italicized*
 
 ##### 2007 
 Educación Infantil y Primaria
+*This text is italicized*
