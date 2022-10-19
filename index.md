@@ -1,4 +1,4 @@
-![Image](messi.jpg)
+
 # Sobre mí
 Soy un joven dinámico, alegre, con actitud positiva y proactivo.
 Muy sociable y fácilmente adaptable a trabajar tanto en equipo como de
